@@ -130,12 +130,14 @@
     <ClCompile Include="Book.cpp" />
     <ClCompile Include="cw32_task3.cpp" />
     <ClCompile Include="Inventory.cpp" />
+    <ClCompile Include="Lotery.cpp" />
     <ClCompile Include="Product.cpp" />
     <ClCompile Include="Toy.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Book.h" />
     <ClInclude Include="Inventory.h" />
+    <ClInclude Include="Lotery.h" />
     <ClInclude Include="Product.h" />
     <ClInclude Include="Toy.h" />
   </ItemGroup>
